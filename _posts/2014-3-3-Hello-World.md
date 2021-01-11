@@ -5,7 +5,7 @@ published: true
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-![TEDUlogoTr.gif]({{site.baseurl}}/_posts/TEDUlogoTr.gif)
+![TEDUlogoTr.gif]({{site.baseurl}}/images/PNG_Formatinda_YOK-Logo.png)
 ![TEDUlogo.jpg]({{site.baseurl}}/_posts/TEDUlogo.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
